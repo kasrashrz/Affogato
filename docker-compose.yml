@@ -1,0 +1,7 @@
+version: '2'
+services:
+  app:
+    image: affogato:1.0.0
+    ports:
+      - "2040:2040"
+      - "3306:3306"

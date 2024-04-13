@@ -11,4 +11,4 @@ docker build --tag affogato:1.0.0
 docker-compose up -d
 ```
 
-## Project database schema
+<!-- ## Project database schema -->
